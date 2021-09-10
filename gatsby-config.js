@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "test-VE",
+    siteUrl: 'https://www.yourdomain.tld',
+    title: 'test-VE',
   },
-  plugins: [],
+  plugins: ['@vanilla-extract/babel-plugin'],
 };
